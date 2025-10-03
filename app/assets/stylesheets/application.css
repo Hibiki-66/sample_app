@@ -60,11 +60,6 @@ main {
   margin: 0 auto;
 }
 
-img {
-  width: 200px;
-  height: 200px;
-}
-
 .list-wrap {
   display: flex;
   flex-wrap: wrap;
